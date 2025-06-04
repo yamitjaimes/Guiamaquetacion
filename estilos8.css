@@ -1,0 +1,59 @@
+body {
+      background-color: #1e1e1e;
+      color: #ccc;
+    }
+
+    .browser-bar {
+      background-color: #3a3a3a;
+      height: 30px;
+    }
+
+    .top-controls {
+      background-color: #2c2c2c;
+      padding: 0.5rem 1rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .main-banner {
+      background-color: #555;
+      height: 250px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-bottom: 2rem;
+    }
+
+    .indicator {
+      width: 20px;
+      height: 20px;
+      background-color: #444;
+      margin: 0 0.3rem;
+      display: inline-block;
+    }
+
+    .section-title {
+      background-color: orange;
+      height: 8px;
+      width: 100px;
+      margin-bottom: 0.5rem;
+    }
+
+    .text-line {
+      background-color: #555;
+      height: 10px;
+      margin: 0.3rem 0;
+    }
+
+    .thumb-small {
+      background-color: #444;
+      height: 50px;
+      margin-bottom: 0.5rem;
+    }
+
+    .thumb-grid {
+      background-color: #444;
+      height: 40px;
+      margin: 0.3rem;
+    }

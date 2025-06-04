@@ -1,0 +1,83 @@
+body {
+      background-color: #1e1e1e;
+      color: #ccc;
+    }
+
+    .browser-bar {
+      background-color: #3a3a3a;
+      height: 30px;
+      display: flex;
+      align-items: center;
+      justify-content: flex-start;
+      padding: 0 1rem;
+    }
+
+    .header {
+      padding: 1rem;
+    }
+
+    .header-line {
+      background-color: #444;
+      height: 12px;
+      width: 300px;
+      margin-bottom: 0.5rem;
+    }
+
+    .video-player {
+      background-color: #c0392b;
+      height: 300px;
+      position: relative;
+    }
+
+    .play-button {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 80px;
+      height: 80px;
+      background-color: #eee;
+      clip-path: polygon(30% 20%, 30% 80%, 80% 50%);
+    }
+
+    .progress-bar-wrapper {
+      background-color: #333;
+      height: 10px;
+      position: relative;
+    }
+
+    .progress-bar {
+      background-color: #e74c3c;
+      height: 10px;
+      width: 40%;
+      position: absolute;
+      top: 0;
+      left: 0;
+    }
+
+    .progress-circle {
+      width: 14px;
+      height: 14px;
+      background-color: #fff;
+      border-radius: 50%;
+      position: absolute;
+      top: -2px;
+      left: 40%;
+      transform: translateX(-50%);
+    }
+
+    .info-columns {
+      padding: 1rem;
+    }
+
+    .info-box {
+      background-color: #2a2a2a;
+      padding: 1rem;
+      margin-bottom: 1rem;
+    }
+
+    .line {
+      height: 10px;
+      background-color: #555;
+      margin-bottom: 0.5rem;
+    }
