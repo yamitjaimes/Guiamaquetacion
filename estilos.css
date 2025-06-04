@@ -1,0 +1,64 @@
+body{
+background: #141414;
+}
+.titulo{
+    background: #b94b02;
+    margin-top: 10px;
+    height: 30px;
+    width: 200px;
+}
+.casilla1{
+    background: #ffffff;
+    margin-top: 25px;
+    margin-bottom: 10px; 
+    height: 30px;
+    width: 200px;
+    margin-left: 20px;
+}
+.casilla2{
+    background: #ff8800;
+    margin-top: 25px;
+    margin-bottom: 10px;    
+    height: 30px;
+    width: 200px;
+    margin-left: 20px;
+}
+.cuerpo{
+    background: #2c2c2c;
+    margin: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.imagenCuerpo1{
+    background: #b94b02;
+    margin-top: 10px;
+    height: 300px;
+    width: 400px;
+}
+.imagenCuerpo2{
+    background: #ff9100;
+    margin-top: 10px;
+    height: 300px;
+    width: 300px;
+}
+.tituloCuerpo{
+    background: rgb(243, 243, 243);
+    margin-top: 10px;
+    height: 30px;
+    width: 450px;
+}
+.card-text{
+    color: #747272;
+    margin-top: 10px;
+}
+.lateral{
+    background: #575757;
+    padding-top: 10px;
+}
+
+.tituloLateral{
+    background: #7a7a7a;
+    height: 30px;
+    width: 200px;
+    margin: 10px;
+}
